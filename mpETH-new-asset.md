@@ -2,9 +2,9 @@
 qip: <to be assigned>
 title: <Add mpETH as collateral for MAI on Ethereum>
 network: <CHAIN NAME>
-status: <Draft>
-author: <a list of the author's or authors' name(s) and/or username(s), or name(s) and email(s), e.g. (use with the parentheses or triangular brackets): Claudio Cossio (@ccossio), FirstName LastName <foo@bar.com>, FirstName (@GitHubUsername) and GitHubUsername (@GitHubUsername)>
-implementor: <a list of the author's or authors' name(s) and/or username(s), or name(s) and email(s), e.g. (use with the parentheses or triangular brackets): FirstName LastName (@GitHubUsername), FirstName LastName <foo@bar.com>, FirstName (@GitHubUsername) and GitHubUsername (@GitHubUsername)>
+status: <Proposal>
+author: <a list of the author's or authors' name(s) and/or username(s), or name(s) and email(s), e.g. (use with the parentheses or triangular brackets): Claudio Cossio (@ccossio)>
+implementor: <a >
 implementation-date:
 proposal: <snapshot.org proposal link> (*optional)
 created: <date created on, in ISO 8601 (yyyy-mm-dd) format>
@@ -39,13 +39,15 @@ https://github.com/HalbornSecurity/PublicReports/blob/master/Solidity%20Smart%20
 
 mpETH wants to empower users from emerging markets to be able to engage with Decentralized Finance, we acknowledge that QiDAO has a large user base in emerging markets and the Meta Pool DAO wants to support it´s growth.
 
+mpETH is a non-rebading liquid staking token (LST), which means the scenario of depeged priced is reduced and does not need a wrapping to accrue staking rewards, plus the calculation of the accruing rewards is done every second.
+
 Meta Pool DAO is commiting ETH staking rewards fees to be distributed to blockchain projects in emerging markets; they are allocating the first 2000 ETH to this initiative. 
 
 For now they are running programs with Gitcoin, participating in Gitcoin Round 18 (GR18) for LATAM projects and GR19 to the Global Chinese Community.
 
 Currenly running a campaign with Giveth to support projects in the APAC region and looking to engage the QiDAO community to have access to this Quadratic Funding round.
 
-In the NEAR Protocol they are currently allocating $20,000 USD to support projects in emerging markets, which will also be open for the QiDAO community to participate in.
+In their current Meta Pool DAO grant Round N.6 they are currently allocating more than $20,000 USD to support projects in emerging markets, which will also be open for the QiDAO community to participate in. [More information:] (https://www.metapool.app/grants)
 
 ### Quorum Standards
 
