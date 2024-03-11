@@ -35,7 +35,9 @@ https://github.com/HalbornSecurity/PublicReports/blob/master/Solidity%20Smart%20
 
 ### Motivation
 * Grow QiDAO presence in frontier markets with a focus in Latin America and South East Asia, specifically in Brazil, Indonesia, Mexico, Philippines, Thailand and Vietnam.
-* QiDAO community can participate and have access to Meta Pool DAO grants 
+* QiDAO community can participate and have access to Meta Pool DAO grants
+* mpETH will be bridged on LINEA Protocol, so users can use it as collateral in a MAI vault
+* Incentives of $3,000 to $4,000 USD in mpETH for the mpETH<>MAI pool on Lynex 
 
 mpETH wants to empower users from frontier markets to be able to engage with Decentralized Finance, we acknowledge that QiDAO has a large user base in these regions and the Meta Pool DAO wants to support it´s growth. Working to onboard millions of users.
 
